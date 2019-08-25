@@ -1,14 +1,7 @@
 # Diary
- This is one of my first projects with delphi and pascal when at September 20, 2005
+This is one of my first projects with delphi and pascal in developer team when at December 5, 2005
 
 ## Setup
-<ol>
-<li>
-Database path should be <br>
-C:\Program Files\GUNLUK\mediadbali\db\alidatabase.mdb
-</li>
-<li>User and Password at login screen: alikadir</li>
-<li>Db Password: alikadir</li>
-<li>May be setup MS Access in MS Office 2007</li>
-</ol>
+This project uses ParadoxDb (Delphi7 > Tools > Database Desktop > Select .DB file)
+Password for login screen: qq
 
